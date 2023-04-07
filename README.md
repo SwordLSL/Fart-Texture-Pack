@@ -2,6 +2,12 @@
 
 # Fart Texture Pack
 
+Explosions replaced with fart noises, verious texture and sound changes, and more.
+
+*Originally created on September 17th, 2021.*
+
+## Credits
+
 Original textures by SwordL#7867
 
 Altered textures by SwordL#7867, originals by Mojang/Minecraft/Microsoft
@@ -9,3 +15,11 @@ Altered textures by SwordL#7867, originals by Mojang/Minecraft/Microsoft
 PNG compression assistance from sudofox#0001, who also made the CPVP fork (https://github.com/sudofox/fartpack/)
 
 German translation by Pudding#6145
+
+---
+
+### To do:
+
+update german translation to include new items and death messages
+
+possibly more, i will log them later on
