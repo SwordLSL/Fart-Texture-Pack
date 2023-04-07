@@ -2,6 +2,12 @@
 
 # Fart Texture Pack
 
+Explosions replaced with fart noises, verious texture and sound changes, and more.
+
+*Originally created on September 17th, 2021.*
+
+## Credits
+
 Original textures by SwordL#7867
 
 Altered textures by SwordL#7867, originals by Mojang/Minecraft/Microsoft
