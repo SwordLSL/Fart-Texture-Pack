@@ -1,0 +1,13 @@
+{
+	"pack": {
+		"pack_format": 9,
+		"description": "Fart sound explosions.\nMade by SwordL"
+	},
+  "language": {
+	"LANG_COUNTRY": {
+		"name": "Fart Language",
+		"region": "'Murica",
+		"bidirectional": false
+		}
+	}
+ }
