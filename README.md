@@ -22,6 +22,6 @@ French translation by UsagiK#2631
 
 ### To do:
 
-update german translation to include new items and death messages
+- update german translation to include new items and death messages
 
-possibly more, i will log them later on
+- finish frog sounds
