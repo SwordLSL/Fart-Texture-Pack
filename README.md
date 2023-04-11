@@ -16,6 +16,8 @@ PNG compression assistance from sudofox#0001, who also made the CPVP fork (https
 
 German translation by Pudding#6145
 
+French translation by UsagiK#2631
+
 ---
 
 ### To do:
