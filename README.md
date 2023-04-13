@@ -25,3 +25,5 @@ French translation by UsagiK#2631
 - update german translation to include new items and death messages
 
 - finish frog sounds
+
+- add player hurt sounds for berry bushes and packed snow
