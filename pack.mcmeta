@@ -4,9 +4,9 @@
 		"description": "Fart sound explosions.\nMade by SwordL"
 	},
   "language": {
-	"LANG_COUNTRY": {
+	"en_us": {
 		"name": "Fart Language",
-		"region": "'Murica",
+		"region": "'MURICA",
 		"bidirectional": false
 		}
 	}
