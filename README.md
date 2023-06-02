@@ -6,6 +6,19 @@ Explosions replaced with fart noises, verious texture and sound changes, and mor
 
 *Originally created on September 17th, 2021.*
 
+
+## Installation Instructions
+
+Download the code as a ZIP file.
+
+![this](https://cdn.discordapp.com/attachments/676981402276855823/1114238957509689424/image.png)
+
+Open the ZIP file and drag the folder inside to your resource packs folder.
+
+![drag drop the the](https://cdn.discordapp.com/attachments/676981402276855823/1114240601525850152/image.png)
+
+Now you're all done! 😃👍
+
 ## Credits
 
 Original textures by SwordL#7867
@@ -22,6 +35,8 @@ French translation by UsagiK#2631
 
 ### To do:
 
-update german translation to include new items and death messages
+- update german translation to include new items and death messages
 
-possibly more, i will log them later on
+- finish frog sounds
+
+- add player hurt sounds for berry bushes and packed snow
