@@ -4,7 +4,9 @@
 
 Explosions replaced with fart noises, verious texture and sound changes, and more.
 
-*Originally created on September 17th, 2021.*
+*If you would like to read a list of all changes, [click here](https://github.com/SwordLSL/Fart-Texture-Pack/blob/main/Changes%20List.md).*
+
+***Originally created on September 17th, 2021.***
 
 
 ## Installation Instructions
