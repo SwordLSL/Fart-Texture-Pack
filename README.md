@@ -38,5 +38,3 @@ French translation by UsagiK#2631
 ### To do:
 
 - finish frog sounds
-
-- add player hurt sounds for berry bushes and packed snow
