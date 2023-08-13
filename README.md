@@ -23,15 +23,15 @@ Now you're all done! 😃👍
 
 ## Credits
 
-Original textures by SwordL#7867
+Original textures by swordl
 
-Altered textures by SwordL#7867, originals by Mojang/Minecraft/Microsoft
+Altered textures by swordl, originals by Mojang/Minecraft/Microsoft
 
-PNG compression assistance from sudofox#0001, who also made the CPVP fork (https://github.com/sudofox/fartpack/)
+PNG compression assistance from sudofox, who also made the CPVP fork (https://github.com/sudofox/fartpack/)
 
-German translation by Pudding#6145
+German translation by pudding6145
 
-French translation by UsagiK#2631
+French translation by usagik
 
 ---
 

@@ -93,7 +93,8 @@
 ---
 ## Environment
 ---
-- Sun -> AVGN "WTF" Face
+- Sun  -> AVGN "WTF" Face
+- Moon -> Makriplier "E" and "Bite of '87" Faces
 ---
 ## GUI
 ---
