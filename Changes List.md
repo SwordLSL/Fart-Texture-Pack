@@ -18,6 +18,7 @@
 - Raw Gold         -> Puddle of Butter / Melted Butter
 - Shears           -> Safety Scissors
 - Stone Sword      -> Bread Knife
+- Suspicious Stew  -> r/place Crewmate Stew
 - TNT Minecart     -> Minecart with a Fart Block
 - Totem of Undying -> Totem of Gavin (Resembling GuyGavin)
 - Wooden Sword     -> Wooden Switchblade
@@ -29,6 +30,7 @@
 - Iron Block                        -> Iron Block with Bart Simpson on it
 - Exposed/Weathered/Oxidized Copper -> Gradual Troll Face as it Oxidizes
 - Poppy                             -> Rose
+- Suspicious Sand/Gravel            -> r/place Crewmate Blocks
 - Target Block                      -> Troll Block
 - TNT                               -> Fart Block
 - Ores                              -> Reverted to Pre-1.17 Textures, Copper has a New Texture
