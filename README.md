@@ -1,5 +1,4 @@
-![fart pack pack.png](https://cdn.discordapp.com/attachments/676981402276855823/1093850586149036092/pack_wide.png)
-
+![Fart Texture Pack extended pack.png](https://github.com/SwordLSL/Fart-Texture-Pack/blob/main/readme%20images/pack_wide.png)
 # Fart Texture Pack
 
 Explosions replaced with fart noises, verious texture and sound changes, and more.
