@@ -12,11 +12,11 @@ Explosions replaced with fart noises, verious texture and sound changes, and mor
 
 Download the code as a ZIP file.
 
-![this](https://cdn.discordapp.com/attachments/676981402276855823/1114238957509689424/image.png)
+![download the code](https://github.com/SwordLSL/Fart-Texture-Pack/blob/main/readme%20images/download_code.png)
 
 Open the ZIP file and drag the folder inside to your resource packs folder.
 
-![drag drop the the](https://cdn.discordapp.com/attachments/676981402276855823/1114240601525850152/image.png)
+![drag and drop the file into the resource pack folder](https://github.com/SwordLSL/Fart-Texture-Pack/blob/main/readme%20images/move_to_folder.png)
 
 Now you're all done! 😃👍
 
