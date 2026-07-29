@@ -51,6 +51,8 @@
   "entity.minecraft.creeper": "Farter",
   "death.fell.accident.generic": "%1$s got died by fall ☹",
   "death.fell.killer": "%1$s was cursed with death by fall :anguished:",
+  "death.attack.arrow": "%1$s got slimed out by %2$s",
+  "death.attack.arrow.item": "%1$s turned into swiss cheese by %2$s using %3$s",
   "death.attack.onFire": "%1$s got very crispy!!",
   "death.attack.lava": "%1$s took a lava bath",
   "death.attack.lava.player": "%1$s took a lava bath to avoid %2$s",
