@@ -1,7 +1,8 @@
 {
 	"pack": {
-		"pack_format": 84,
-		"description": "Fart sound explosions.\nMade by SwordL"
+		"description": "Fart sound explosions.\nMade by SwordL",
+		"min_format": 69,
+		"max_format": 88
 	},
   "language": {
 	"en_us": {
